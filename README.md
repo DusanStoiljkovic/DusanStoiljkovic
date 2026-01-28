@@ -1,16 +1,63 @@
-## Hi there 👋
+# 👋 Hi, I'm Dušan Stoiljković
 
-<!--
-**DusanStoiljkovic/DusanStoiljkovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend / Full-Stack Developer focused on building clean, scalable web applications.
 
-Here are some ideas to get you started:
+🎓 Final-year Software Engineering student  
+🌍 Based in Serbia — open to remote opportunities  
+🚀 Actively building real-world projects and improving backend skills  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Tech Stack
+
+**Backend**
+- Node.js
+- Express.js
+- MongoDB (Mongoose)
+- REST APIs
+- JWT Authentication
+
+**Frontend**
+- React
+- Angular
+- Next.js
+
+**Tools & Practices**
+- Git & GitHub
+- MVC / Service-Controller architecture
+- API testing (Postman, REST Client)
+- Clean code & defensive programming
+
+---
+
+## 🛠 Featured Projects
+
+### 🛒 E-Commerce Backend API
+Production-ready REST API with authentication, cart logic, product management and reviews.
+
+- Node.js + Express + MongoDB
+- JWT authentication
+- Cart with quantity handling
+- Clean service-layer architecture
+
+🔗 Repo: https://github.com/DusanStoiljkovic/your-repo-name
+
+---
+
+## 🎯 What I'm Looking For
+
+- Junior / Entry-Level Backend or Full-Stack Developer role  
+- Remote-friendly teams  
+- Opportunities to grow and work on real products  
+
+---
+
+## 📫 Let's Connect
+
+- 🌐 Portfolio: https://www.dusanstoiljkovic.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/dusan-stoiljkovic-508a51235/  
+- 💻 GitHub: https://github.com/DusanStoiljkovic  
+
+---
+
+⭐ Feel free to check out my repositories and projects!

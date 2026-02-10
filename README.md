@@ -1,91 +1,74 @@
-# 👋 Hi, I’m Dušan Stoiljković
+👋 Hi, I’m Dušan Stoiljković
 
-**Backend / Full-Stack Developer** with a strong focus on building clean, scalable, and maintainable web applications.
+Junior Full-Stack / Backend Developer focused on building clean, scalable, and production-ready web applications.
 
-🎓 Final-year Software Engineering student  
-🌍 Based in Serbia — open to remote opportunities  
-💼 Actively seeking a **Full-Stack Developer** role  
-🚀 Passionate about real-world backend systems, APIs,  
+🌍 Based in Serbia | Open to Remote & EU opportunities
+💼 Actively seeking Junior / Entry-Level Backend or Full-Stack roles
 
 ---
 
-## 🧠 About Me
+🧠 About Me
 
-I am a fullstack-oriented developer with hands-on experience in designing and implementing RESTful APIs using **Node.js, Express, and MongoDB**.  
-I focus on writing **clean, readable code**, following proper **architecture patterns**, and handling real-world edge cases.
+I’m a full-stack oriented developer with a strong backend focus.
+I design and build RESTful APIs using Node.js, Express, and MongoDB, with attention to real-world business logic, data relationships, and edge cases.
 
-I enjoy turning business requirements into reliable backend logic — authentication, data relationships, cart systems, and API contracts — while keeping the codebase maintainable and easy to extend.
-
----
-
-## 🛠 Tech Stack
-
-### Backend
-- **Node.js**
-- **Express.js**
-- **MongoDB & Mongoose**
-- RESTful APIs
-- JWT Authentication
-- MVC / Service-Controller architecture
-
-### Frontend
-- React
-- Next.js
-
-### Tools & Practices
-- Git & GitHub
-- API testing (Postman, REST Client)
-- Defensive programming & validation
-- Clean code principles
-- Basic system design concepts
+I enjoy turning requirements into reliable backend systems — authentication, authorization, cart logic, and API contracts — while keeping the codebase clean, maintainable, and easy to extend.
 
 ---
 
-## 🧱 Featured Project
+🛠 Tech Stack
 
-### 🛒 E-Commerce Backend API
-A production-ready REST API designed to demonstrate real-world backend development practices.
+Backend
+• Node.js
+• Express.js
+• MongoDB & Mongoose
+• REST APIs
+• JWT Authentication
+• Service / Controller architecture
 
-**Key features:**
-- JWT-based authentication (register / login)
-- Product & category management
-- Advanced product search
-- User cart with quantity logic
-- Safe price calculation
-- Reviews system with authorization
-- Clean service-layer architecture
+Frontend
+• React
+• Next.js
 
-**Tech:** Node.js, Express, MongoDB, Mongoose, JWT  
-🔗 **Repository:** (https://github.com/DusanStoiljkovic/API-ToyBeam)
-
-> This project was built as a portfolio application with a strong emphasis on real-world backend logic rather than demos or tutorials.
-
----
-
-## 📐 What I Value in Code
-
-- Clear separation of concerns
-- Predictable API behavior
-- Readable and maintainable structure
-- Proper validation and error handling
-- Thinking about edge cases early
+Tools
+• Git & GitHub
+• Postman
+• API validation & error handling
+• Clean code principles
+• Basic system design concepts
 
 ---
 
-## 🎯 What I’m Looking For
+🧱 Featured Project
 
-- Junior / Entry-Level **Backend** or **Full-Stack Developer** position  
-- Remote or hybrid teams  
-- An environment where I can grow, learn from experienced developers, and contribute to real products  
+🛒 E-Commerce Backend API (ToyBeam)
+
+A production-ready REST API built to simulate real-world e-commerce backend systems.
+
+Key features:
+• JWT-based authentication (register / login)
+• Product & category management
+• Advanced product search
+• User cart with quantity & price logic
+• Reviews system with authorization
+• Clean service-layer architecture
+
+Tech: Node.js, Express, MongoDB, Mongoose, JWT
+
+🔗 Repository:
+https://github.com/DusanStoiljkovic/API-ToyBeam
 
 ---
 
-## 📫 Contact & Links
+🎯 What I’m Looking For
 
-- 🌐 **Portfolio:** https://www.dusanstoiljkovic.com  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/dusan-stoiljkovic-508a51235/  
-- 💻 **GitHub:** https://github.com/DusanStoiljkovic  
+• Junior / Entry-Level Backend or Full-Stack Developer position
+• Remote or hybrid teams
+• Environment focused on clean code, learning, and real products
 
 ---
 
-⭐ Thank you for visiting my profile — feel free to explore my repositories.
+📫 Contact
+
+🌐 Portfolio: https://www.dusanstoiljkovic.com  
+💼 LinkedIn: https://www.linkedin.com/in/dusan-stoiljkovic-508a51235/

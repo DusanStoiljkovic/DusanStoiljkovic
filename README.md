@@ -35,7 +35,7 @@ Modern movie browsing app with search, pagination and detailed pages.
 - React Router
 - Clean component structure
 
-🔗 Live Demo: (add link)  
+🔗 Live Demo: /
 📂 GitHub Repo: [(add link)](https://github.com/DusanStoiljkovic/Cinema---Movie-Catalog)
 
 ---
@@ -62,8 +62,8 @@ Task management app with authentication and backend integration.
 - JWT Authentication
 - Protected routes
 
-🔗 Live Demo: (add link)  
-📂 GitHub Repo: (add link)
+🔗 Live Demo: /
+📂 GitHub Repo: /
 
 ---
 

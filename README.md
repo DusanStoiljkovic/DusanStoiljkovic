@@ -36,7 +36,7 @@ Modern movie browsing app with search, pagination and detailed pages.
 - Clean component structure
 
 🔗 Live Demo: /
-📂 GitHub Repo: [(add link)](https://github.com/DusanStoiljkovic/Cinema---Movie-Catalog)
+📂 GitHub Repo: [(link)](https://github.com/DusanStoiljkovic/Cinema---Movie-Catalog)
 
 ---
 
@@ -49,8 +49,8 @@ Fully functional shopping cart with product filtering and local storage state.
 - Local storage
 - Responsive UI
 
-🔗 Live Demo: [(add link)  ](https://toybeam.dusanstoiljkovic.com/)
-📂 GitHub Repo: [(add link)](https://github.com/DusanStoiljkovic/MERN-Toy-Store)
+🔗 Live Demo: [(link)  ](https://toybeam.dusanstoiljkovic.com/)
+📂 GitHub Repo: [(link)](https://github.com/DusanStoiljkovic/MERN-Toy-Store)
 
 ---
 

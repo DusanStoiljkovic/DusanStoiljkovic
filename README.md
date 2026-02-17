@@ -26,16 +26,16 @@ Frontend Developer focused on building modern, responsive and production-ready w
 
 ## 🚀 Featured Projects
 
-### 🎬 Movie App (React + TMDB API)
-Modern movie browsing app with search, pagination and detailed pages.
+### 🎬 Cinema – Movie Catalog
+Modern React movie catalog app that integrates with a public movie API.
 
-- React + Hooks
-- API fetching with async/await
-- Responsive design
-- React Router
-- Clean component structure
+- Angular + axios 
+- Search and browse movies
+- Dynamic routing and detailed movie pages
+- API data fetching with async/await
+- Fully responsive UI
 
-🔗 Live Demo: /
+🔗 View Repository
 📂 GitHub Repo: [(link)](https://github.com/DusanStoiljkovic/Cinema---Movie-Catalog)
 
 ---

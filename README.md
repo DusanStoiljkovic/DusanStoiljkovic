@@ -1,74 +1,87 @@
-👋 Hi, I’m Dušan Stoiljković
+# 👋 Hi, I'm Dušan Stoiljković
 
-Junior Full-Stack / Backend Developer focused on building clean, scalable, and production-ready web applications.
+Frontend Developer focused on building modern, responsive and production-ready web applications.
 
-🌍 Based in Serbia | Open to Remote & EU opportunities
-💼 Actively seeking Junior / Entry-Level Backend or Full-Stack roles
-
----
-
-🧠 About Me
-
-I’m a full-stack oriented developer with a strong backend focus.
-I design and build RESTful APIs using Node.js, Express, and MongoDB, with attention to real-world business logic, data relationships, and edge cases.
-
-I enjoy turning requirements into reliable backend systems — authentication, authorization, cart logic, and API contracts — while keeping the codebase clean, maintainable, and easy to extend.
+🚀 Passionate about React, clean UI, and solving real-world problems through code.
 
 ---
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
-Backend
-• Node.js
-• Express.js
-• MongoDB & Mongoose
-• REST APIs
-• JWT Authentication
-• Service / Controller architecture
+### Frontend
+- React
+- JavaScript (ES6+)
+- HTML5
+- CSS3 / Responsive Design
+- React Router
+- REST API Integration
 
-Frontend
-• React
-• Next.js
-
-Tools
-• Git & GitHub
-• Postman
-• API validation & error handling
-• Clean code principles
-• Basic system design concepts
+### Tools
+- Git & GitHub
+- Vite
+- VS Code
+- Postman
 
 ---
 
-🧱 Featured Project
+## 🚀 Featured Projects
 
-🛒 E-Commerce Backend API (ToyBeam)
+### 🎬 Movie App (React + TMDB API)
+Modern movie browsing app with search, pagination and detailed pages.
 
-A production-ready REST API built to simulate real-world e-commerce backend systems.
+- React + Hooks
+- API fetching with async/await
+- Responsive design
+- React Router
+- Clean component structure
 
-Key features:
-• JWT-based authentication (register / login)
-• Product & category management
-• Advanced product search
-• User cart with quantity & price logic
-• Reviews system with authorization
-• Clean service-layer architecture
-
-Tech: Node.js, Express, MongoDB, Mongoose, JWT
-
-🔗 Repository:
-https://github.com/DusanStoiljkovic/API-ToyBeam
+🔗 Live Demo: (add link)  
+📂 GitHub Repo: [(add link)](https://github.com/DusanStoiljkovic/Cinema---Movie-Catalog)
 
 ---
 
-🎯 What I’m Looking For
+### 🛒 E-Commerce Frontend
+Fully functional shopping cart with product filtering and local storage state.
 
-• Junior / Entry-Level Backend or Full-Stack Developer position
-• Remote or hybrid teams
-• Environment focused on clean code, learning, and real products
+- React
+- State management
+- Cart logic
+- Local storage
+- Responsive UI
+
+🔗 Live Demo: [(add link)  ](https://toybeam.dusanstoiljkovic.com/)
+📂 GitHub Repo: [(add link)](https://github.com/DusanStoiljkovic/MERN-Toy-Store)
 
 ---
 
-📫 Contact
+### ✅ Task Manager App
+Task management app with authentication and backend integration.
 
-🌐 Portfolio: https://www.dusanstoiljkovic.com  
-💼 LinkedIn: https://www.linkedin.com/in/dusan-stoiljkovic-508a51235/
+- React
+- REST API
+- JWT Authentication
+- Protected routes
+
+🔗 Live Demo: (add link)  
+📂 GitHub Repo: (add link)
+
+---
+
+## 📈 Currently Improving
+
+- Advanced React patterns
+- Performance optimization
+- Writing scalable and clean code
+- Preparing for frontend job interviews
+
+---
+
+## 📫 Contact Me
+
+- 🌐 Portfolio: https://www.dusanstoiljkovic.com
+- 💼 LinkedIn: https://www.linkedin.com/in/dusan-stoiljkovic-508a51235/
+- 📧 Email: stoiljkovicdusan02@gmail.com
+
+---
+
+⭐ Open to Junior Frontend Developer positions (Serbia & Remote)

@@ -2,11 +2,12 @@
 
 Frontend Developer focused on building modern, responsive and production-ready web applications.
 
-🚀 Passionate about React, clean UI, and solving real-world problems through code.
+🚀 Passionate about **React**, clean UI, and solving real-world problems through code.  
+Currently expanding my skills toward **full-stack development (React + backend APIs)**.
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 ### Frontend
 - React
@@ -24,64 +25,85 @@ Frontend Developer focused on building modern, responsive and production-ready w
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🎬 Cinema – Movie Catalog
-Modern React movie catalog app that integrates with a public movie API.
+## 🎬 Cinema – Movie Catalog
+Modern movie catalog web application that integrates with a public movie API.
 
-- Angular + axios 
+**Features**
+
 - Search and browse movies
-- Dynamic routing and detailed movie pages
-- API data fetching with async/await
+- Dynamic routing with movie detail pages
+- API data fetching using async/await
+- Responsive design for all devices
+
+**Tech**
+
+- React
+- React Router
+- REST API
+- Axios / Fetch
+
+🔗 Live Demo: https://imovie.dusanstoiljkovic.com/
+
+---
+
+## 🛒 E-Commerce Frontend
+E-commerce frontend application with product filtering and shopping cart functionality.
+
+**Features**
+
+- Product listing and filtering
+- Shopping cart logic
+- Local storage persistence
 - Fully responsive UI
 
-🔗 View Repository
-📂 GitHub Repo: [(link)](https://github.com/DusanStoiljkovic/Cinema---Movie-Catalog)
+**Tech**
+
+- React
+- JavaScript
+- Local Storage
+- CSS
+
+🔗 Live Demo: https://toybeam.dusanstoiljkovic.com/
 
 ---
 
-### 🛒 E-Commerce Frontend
-Fully functional shopping cart with product filtering and local storage state.
+## ✅ Admin Dashboard
+Admin dashboard done in shadcn in a modern way.
 
-- React
-- State management
-- Cart logic
-- Local storage
-- Responsive UI
+**Features**
 
-🔗 Live Demo: [(link)  ](https://toybeam.dusanstoiljkovic.com/)
-📂 GitHub Repo: [(link)](https://github.com/DusanStoiljkovic/MERN-Toy-Store)
-
----
-
-### ✅ Task Manager App
-Task management app with authentication and backend integration.
-
-- React
-- REST API
-- JWT Authentication
+- User authentication
 - Protected routes
+- Reusable UI components
+- Complex graphs
 
-🔗 Live Demo: /
-📂 GitHub Repo: /
+**Tech**
+
+- React
+- Shadcn
+
+🔗 Live Demo: https://admin-dashboard.dusanstoiljkovic.com/
 
 ---
 
-## 📈 Currently Improving
+# 📈 Currently Improving
 
 - Advanced React patterns
 - Performance optimization
-- Writing scalable and clean code
-- Preparing for frontend job interviews
+- Writing scalable and maintainable code
+- Preparing for frontend developer interviews
 
 ---
 
-## 📫 Contact Me
+# 📫 Contact Me
 
-- 🌐 Portfolio: https://www.dusanstoiljkovic.com
-- 💼 LinkedIn: https://www.linkedin.com/in/dusan-stoiljkovic-508a51235/
-- 📧 Email: stoiljkovicdusan02@gmail.com
+🌐 Portfolio  
+https://www.dusanstoiljkovic.com
 
----
+💼 LinkedIn  
+https://www.linkedin.com/in/dusan-stoiljkovic-508a51235/
 
-⭐ Open to Junior Frontend Developer positions (Serbia & Remote)
+📧 Email  
+stoiljkovicdusan02@gmail.com

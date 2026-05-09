@@ -1,20 +1,17 @@
 👋 Hi, I'm Dušan
 
-Backend Developer focused on Go (Golang) and microservices.
+Junior Backend Developer 
 
 ⚙️ Tech
 
-Go • REST APIs • Microservices • MySQL • Docker • NATS
+Java Spring boot • Go • REST APIs • Microservices • MySQL • MongoDB • Docker
 
 🚀 Focus
 
 Building scalable backend systems and solving real-world problems like concurrency and distributed communication.
 
-📌 Project
+📌 Project • Portfolio
 
 🎬 Cinema Distributed System
 https://github.com/DusanStoiljkovic/cinema-distributed-system
 
-🎯 Goal
-
-Junior Backend Developer role (Go)
